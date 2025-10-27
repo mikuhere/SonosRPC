@@ -22,14 +22,18 @@ discordAppID = 12345678900121
 #enter discord app ID from discord developer page to discordAppID
 ~~~
 ### Get the Sonos API running
-5)Change directory to node-sonos-http-api
+
+5) Change directory to node-sonos-http-api
+
 6) Run the following commands
 ~~~
 npm install
 npm start
 ~~~
 node-sonos-http-api should now be running
+
 7) Change Directory to main folder 
+
 8) run main.py
 ~~~
 python main.py
