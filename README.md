@@ -11,7 +11,7 @@ For https://github.com/jishi/node-sonos-http-api/
 ## Installation	
 1) Clone this repository
 ~~~
-git clone https://github.com/mikuhere/SonosRPC
+git clone --recursive https://github.com/mikuhere/SonosRPC
 ~~~
 2) Get a developer application ID from discord
 3) Edit config.ini and add the application ID
